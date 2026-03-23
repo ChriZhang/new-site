@@ -15,10 +15,12 @@ status:
 role: researcher
 bio: |
   I am currently in secondment at Inria Paris, as a researcher in the CAGE team. 
-  I am interested in the control, stabilization and optimal control of PDEs and systems, mainly hyperbolic and parabolic equations, with or without constraints. I have also worked on problems in data-driven modelling and control, in particular methods involving the Koopman operator. 
+  I work on control, stabilization and optimal control problems in infinite dimension (PDEs and evolution equation), with a particular focus on constrained control. 
+  
+  I have also dabbled in data-driven modelling and control, in particular methods involving the Koopman operator. 
+
   More recently, I have taken an interest in reachability analysis. I co-supervised the PhD thesis of Ivan Hasenohr with Camille Pouchol and Yannick Privat, during which we developed computer-assisted proofs of reachability and non-reachability.
-  I was formerly a postdoctoral researcher for the Chair Dynamics, Control and Numerics at the Friedrich-Alexander-Universität Erlangen Nürnberg.
-  I defended my PhD thesis at the Laboratoire Jacques-Louis Lions, under the supervision of Jean-Michel Coron, in October 2019.
+  
 
 
 affiliations:
