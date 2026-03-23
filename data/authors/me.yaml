@@ -14,13 +14,13 @@ status:
   icon: "☕️"
 role: researcher
 bio: |
-I am currently in secondment at Inria Paris, as a researcher in the CAGE team. 
+I am currently in secondment at  <a href="https://www.inria.fr/fr/centre-inria-de-paris">Inria Paris<\a>, as a researcher in the <a href="https://www.ljll.fr/~sigalotti/cage/home.html">CAGE team<\a>. 
 I am interested in the control, stabilization and optimal control of PDEs and systems, mainly hyperbolic and parabolic equations, with or without constraints. I have also worked on problems in data-driven modelling and control, in particular methods involving the Koopman operator. 
 
-More recently, I have taken an interest in reachability analysis. I co-supervised the PhD thesis of [Ivan Hasenohr](https://ivan-hasenohr.github.io) with [Camille Pouchol](https://poucholcamille.wixsite.com/perso) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr/), during which we developed computer-assisted proofs of reachability and non-reachability.
+More recently, I have taken an interest in reachability analysis. I co-supervised the PhD thesis of <a href="https://ivan-hasenohr.github.io">Ivan Hasenohr <\a> with <a href="https://poucholcamille.wixsite.com/perso">Camille Pouchol]<\a> and <a href"https://yannick-privat.perso.math.cnrs.fr/">Yannick Privat<\a>, during which we developed computer-assisted proofs of reachability and non-reachability.
 
-I was formerly a postdoctoral researcher for the [Chair Dynamics, Control and Numerics](https://dcn.nat.fau.eu/) at the [Friedrich-Alexander-Universität Erlangen Nürnberg](https://www.fau.de/).
-I defended my PhD thesis (you can find a version of the manuscript [here](https://hal.archives-ouvertes.fr/tel-02464011v1)) at the [Laboratoire Jacques-Louis Lions](https://www.ljll.math.upmc.fr), under the supervision of [Jean-Michel Coron](https://www.ljll.math.upmc.fr/coron/), in October 2019.
+I was formerly a postdoctoral researcher for the <a href="https://dcn.nat.fau.eu/">Chair Dynamics, Control and Numerics<\a> at the <a href="https://www.fau.de/">Friedrich-Alexander-Universität Erlangen Nürnberg <\a>.
+I defended my PhD thesis (you can find a version of the manuscript <a href="https://hal.archives-ouvertes.fr/tel-02464011v1">here<\a>) at the <a href="https://www.ljll.math.upmc.fr">Laboratoire Jacques-Louis Lions<\a>, under the supervision of <a href="https://www.ljll.math.upmc.fr/coron/">Jean-Michel Coron<\a>, in October 2019.
 
 
 affiliations:
