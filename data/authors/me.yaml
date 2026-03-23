@@ -14,7 +14,7 @@ status:
   icon: "☕️"
 role: researcher
 bio: |
-I am currently in secondment at [INRIA - Paris](https://www.inria.fr/fr/centre-inria-de-paris), as a researcher in the [CAGE team](https://www.ljll.math.upmc.fr/~sigalotti/cage/home.html). 
+I am currently in secondment at Inria Paris, as a researcher in the CAGE team. 
 I am interested in the control, stabilization and optimal control of PDEs and systems, mainly hyperbolic and parabolic equations, with or without constraints. I have also worked on problems in data-driven modelling and control, in particular methods involving the Koopman operator. 
 
 More recently, I have taken an interest in reachability analysis. I co-supervised the PhD thesis of [Ivan Hasenohr](https://ivan-hasenohr.github.io) with [Camille Pouchol](https://poucholcamille.wixsite.com/perso) and [Yannick Privat](https://yannick-privat.perso.math.cnrs.fr/), during which we developed computer-assisted proofs of reachability and non-reachability.
