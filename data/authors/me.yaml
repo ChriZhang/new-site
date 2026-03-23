@@ -42,7 +42,7 @@ interests:
   - Optimization
 
 education:
-  - degree: PhD Computer Science
+  - degree: PhD in applied mathematics
     institution: Laboratoire Jacques-Louis Lions
     start: 2016-10-01
     end: 2019-10-25
@@ -63,8 +63,12 @@ education:
 
 experience:
   - role: Researcher in secondment
+    org: Inria Paris
+    start: 2025-04-01
+  - role: Researcher in secondment
     org: Inria Nancy
     start: 2021-09-01
+    end: 2025-03-31
     summary: |
     button:
       text: 
