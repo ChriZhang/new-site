@@ -12,6 +12,8 @@ postnominals:
   - PhD
 status:
   icon: "☕️"
+avatar:
+  filename: Inria-0378-082.jpg
 role: researcher
 bio: |
   I am currently in secondment at Inria Paris, as a researcher in the CAGE team. 
