@@ -1,5 +1,5 @@
 ---
-title: An abstract setting for the Fredholm backstepping transformation: self-adjoint case
+title: "An abstract setting for the Fredholm backstepping transformation: self-adjoint case"
 
 authors:
   - Ludovick Gagnon
