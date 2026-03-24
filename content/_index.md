@@ -42,11 +42,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research lies on the theoretical side of applied mathematics: I mainly work with abstract models to study their properties in terms of control theory. Are they controllable? Stabilizable? Why? What if we add constraints? What if we are looking for optimal controls?
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My background makes me a thoroughly theoretical researcher, and I try to let that shape how I look at practical problems. Conversely, I try to let practical considerations shape my theoretical problem solving. In that spirit, I have been looking into constructive methods for some time now: in control theory, there are situations and methods that allow us to complement classical existence results with some information on the solutions. These can lead to strong characterisations and/or numerical approximations.
 
-        Please reach out to collaborate 😃
+        In stabilisation, my co-authors and I have contributed several key insights to expand the constructive method that is backstepping, to general control systems in infinite dimension. This method consists in solving an more complex problem than stabilisation, which requires more work but rewards us with more information on the feedback law, in the best cases an explicit expression.
+
+        In controllability and reachability analysis, our use of duality theory leads to constructive characterizations of admissible controls or certificates of non-reachability. This allows for their numerical approximation, and sometimes even their numerical certification in the case of non-reachability.
+
     design:
       columns: '1'
   - block: collection
