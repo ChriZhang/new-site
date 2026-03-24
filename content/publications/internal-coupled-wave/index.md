@@ -20,7 +20,7 @@ links:
   - name: Preprint
     url: https://hal.archives-ouvertes.fr/hal-01517461/
 
-featured: true
+featured: false
 
 draft: false
 ---
