@@ -20,6 +20,6 @@ abstract: >
 links:
   - name: Preprint
     url: https://hal.science/hal-05357694
-
+featured: true
 draft: false
 ---
