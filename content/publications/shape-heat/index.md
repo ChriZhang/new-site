@@ -2,8 +2,8 @@
 title: Approximate control of parabolic equations with on-off shape controls by Fenchel duality
 
 authors:
-  - cpouchol
-  - etrelat
+  - Camille Pouchol
+  - Emmanuel Trélat
   - me
 
 date: 2022-12-08
