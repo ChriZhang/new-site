@@ -21,6 +21,6 @@ links:
     url: https://ems.press/journals/aihpc/articles/14297585
   - name: Preprint
     url: https://hal.archives-ouvertes.fr/hal-03889865v1
-
+featured: true
 draft: false
 ---
