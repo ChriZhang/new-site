@@ -3,7 +3,7 @@ title: A quantitative analysis of Koopman operator methods for system identifica
 
 authors:
   - me
-  - ezuazua
+  - Enrique Zuazua
 
 date: 2022-09-05
 
