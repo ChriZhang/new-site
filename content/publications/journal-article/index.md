@@ -3,7 +3,7 @@ title: Internal Controllability of Systems of Semilinear Coupled One-Dimensional
 
 authors:
   - me
-
+draft: true
 date: 2018-08-23
 
 publication_types: ["article-journal"]
