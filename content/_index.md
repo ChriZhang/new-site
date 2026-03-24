@@ -61,7 +61,7 @@ sections:
           - publications
         featured_only: true
     design:
-      view: article-list
+      view: compact
       columns: 2
   - block: collection
     content:
