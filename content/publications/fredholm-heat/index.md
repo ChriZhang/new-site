@@ -2,9 +2,9 @@
 title: Fredholm transformation on Laplacian and rapid stabilization for the heat equation
 
 authors:
-  - lgagnon
-  - ahayat
-  - sxiang
+  - Ludovick Gagnon
+  - Amaury Hayat
+  - Shengquan Xiang
   - me
 
 date: 2021-10-08
