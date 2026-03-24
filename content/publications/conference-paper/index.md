@@ -7,7 +7,7 @@ title: 'An example conference paper'
 authors:
   - me
   - Robert Ford
-
+draft: true
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
