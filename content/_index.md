@@ -46,7 +46,7 @@ sections:
 
         My background makes me a thoroughly theoretical researcher, and I try to let that shape how I look at practical problems. Conversely, I try to let practical considerations shape my theoretical problem solving. In that spirit, I have been looking into constructive methods for some time now: in control theory, there are situations and methods that allow us to complement classical existence results with some information on the solutions. These can lead to strong characterisations and/or numerical approximations.
 
-        In stabilisation, my co-authors and I have contributed several key insights to expand the constructive method that is backstepping, to general control systems in infinite dimension. This method consists in solving an more complex problem than stabilisation, which requires more work but rewards us with more information on the feedback law, in the best cases an explicit expression.
+        In stabilisation, my co-authors and I have contributed several key insights to extend the constructive method that is backstepping, to general control systems in infinite dimension. This method consists in solving a more complex problem than stabilisation, which requires more work but rewards us with more information on the feedback law, in the best cases an explicit expression.
 
         In controllability and reachability analysis, our use of duality theory leads to constructive characterizations of admissible controls or certificates of non-reachability. This allows for their numerical approximation, and sometimes even their numerical certification in the case of non-reachability.
 
